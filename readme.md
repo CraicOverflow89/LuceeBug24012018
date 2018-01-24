@@ -2,6 +2,7 @@ Implicit Accessors Do Not Satisy Interface
 ==========================================
 
 **Description**
+
 It seems like implicit getters and setters do not satisfy interface methods (but they do in ACF10).
 
 **Instructions**
